@@ -8,3 +8,7 @@ me = {
         "street": "Las Vegas Blvd"
     }
 }
+
+
+def test():
+    print("test")

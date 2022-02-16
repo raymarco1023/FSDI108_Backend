@@ -19,7 +19,7 @@ catalog = [
         "title": "partyhats",
         "image": "partyhats.jpeg",
         "price": 2.0,
-        "category": "Hats",
+        "category": "Misc",
     },
     {
         "_id": "4fekhj3u9",
